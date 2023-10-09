@@ -1,2 +1,4 @@
 # crudess
 restful API using nde.js
+WITH THE STUDENT DATABASE
+AS THE ROLLNUMBER AS THE PRIMARY KEY
